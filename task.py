@@ -1,4 +1,1 @@
-variables
-age = 24
-
 
